@@ -7,7 +7,7 @@ use Nette\Config;
 
 
 /**
- * Enables registration of other extensions in config file
+ * Enables registration of other extensions in $config file
  *
  * @author  Vojtěch Dobeš
  * @license New BSD

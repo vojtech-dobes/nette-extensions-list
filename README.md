@@ -8,7 +8,7 @@ New BSD
 
 ## Dependencies
 
-- Nette Framework 2.0.4
+- Nette Framework 2.0.5 (because of nette/nette#740)
 
 ## Installation
 
