@@ -12,7 +12,7 @@ New BSD
 
 ## Installation
 
-1. Get the source code from Github.
+1. Get the source code from Github or via Composer (`vojtech-dobes/extensions-list`).
 2. Register as compiler extension.
 
 ```php
