@@ -1,5 +1,6 @@
 {
     "name": "vojtech-dobes/extensions-list",
+    "type": "nette-addon",
     "description": "Enables registration of other extensions in config file (for Nette Framework)",
     "keywords": ["nette", "config", "di"],
     "homepage": "http://github.com/vojtech-dobes/ExtensionsList",
