@@ -4,7 +4,7 @@ Enables registration of other extensions in config file
 
 ## License
 
-New BSD
+[New BSD](http://choosealicense.com/licenses/bsd-3-clause/)
 
 ## Dependencies
 
